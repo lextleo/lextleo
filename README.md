@@ -1,6 +1,5 @@
 
 <div align="center">
-
 # `HEY, I'M ADITYA` 👋
 
 **Robotics Engineering Student · Polymath in Progress**
