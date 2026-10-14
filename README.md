@@ -70,16 +70,3 @@ An open-source playground for connecting components, writing code, and simulatin
 <img src="https://raw.githubusercontent.com/lextleo/lextleo/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
 
 </div>
-
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/lextleo/lextleo/output/galaga-contribution-graph-dark.svg"
-  alt="Galaga GitHub contribution animation"
-  width="100%"
-/>
-
-</div>
