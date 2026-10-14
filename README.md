@@ -19,7 +19,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### `01 / ABOUT ME`
+### `ABOUT ME`
 
 ```text
 > studying robotics & automation
@@ -29,7 +29,7 @@
 
 I enjoy exploring the space between **software, hardware, and creativity** — from understanding a circuit to building a simulator or editing a video.
 
-### `02 / FROM THE WORKBENCH`
+### `FROM THE WORKBENCH`
 
 **[MagicSmoke](https://github.com/lextleo/MagicSmoke)**
 
